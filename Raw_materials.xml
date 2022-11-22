@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row-0>
+    <R_NO>78</R_NO>
+    <R_NAME>cloth</R_NAME>
+    <Cost>2000</Cost>
+  </row-0>
+  <row-1>
+    <R_NO>134</R_NO>
+    <R_NAME>wood</R_NAME>
+    <Cost>4200</Cost>
+  </row-1>
+  <row-2>
+    <R_NO>187</R_NO>
+    <R_NAME>P.O.P.</R_NAME>
+    <Cost>6000</Cost>
+  </row-2>
+</root>

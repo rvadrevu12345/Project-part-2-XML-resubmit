@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row-0>
+    <Peppa_NO>P07</Peppa_NO>
+    <Peppa_Name>Rebecca Rabit</Peppa_Name>
+    <No_of_toys>340</No_of_toys>
+  </row-0>
+  <row-1>
+    <Peppa_NO>P34</Peppa_NO>
+    <Peppa_Name>Suzy Sheep</Peppa_Name>
+    <No_of_toys>450</No_of_toys>
+  </row-1>
+  <row-2>
+    <Peppa_NO>P96</Peppa_NO>
+    <Peppa_Name>Candy Cat</Peppa_Name>
+    <No_of_toys>900</No_of_toys>
+  </row-2>
+</root>

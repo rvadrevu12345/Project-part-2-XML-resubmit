@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row-0>
+    <Cust_NO>34</Cust_NO>
+    <Cust_Name>messi</Cust_Name>
+    <Cust_Phone>9550405007</Cust_Phone>
+  </row-0>
+  <row-1>
+    <Cust_NO>49</Cust_NO>
+    <Cust_Name>federer</Cust_Name>
+    <Cust_Phone>9441007908</Cust_Phone>
+  </row-1>
+  <row-2>
+    <Cust_NO>62</Cust_NO>
+    <Cust_Name>mahesh</Cust_Name>
+    <Cust_Phone>8374220299</Cust_Phone>
+  </row-2>
+</root>
